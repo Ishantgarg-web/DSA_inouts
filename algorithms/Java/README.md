@@ -87,7 +87,8 @@
 - [Longest Common Substring](strings/Longest_common_substring.java)
 - [Boyer Moore Search](strings/Boyer_Moore.java)
 - [Reverse String](strings/reverse-string.java)
-- [First Non Repeating Character](strings/first-non-repeating-char.java)
+- [First Non Repeating Character](strings/first-non-repeating-char.java
+- [Isomorphic strings](strings/isomorphic_strings.java)
 
 ## Trees
 
